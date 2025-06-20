@@ -25,7 +25,7 @@ Hi! I'm Farid Fazri Fadilah, an Informatics Engineering student at STIKOM Cirebo
 📧 nomorhpa@gmail.com  
 📱 +62 857 9523 3508  
 🌐 [My Website](https://RAZORGG.github.io)
-![Alt Text](https://pin.it/12O4ctdha)
+![image](https://github.com/user-attachments/assets/e53f5762-95cd-41f5-91a6-ad3074489151)
 
 
 
