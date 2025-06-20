@@ -25,7 +25,8 @@ Hi! I'm Farid Fazri Fadilah, an Informatics Engineering student at STIKOM Cirebo
 📧 nomorhpa@gmail.com  
 📱 +62 857 9523 3508  
 🌐 [My Website](https://RAZORGG.github.io)
-<img src="https://uk.pinterest.com/xwopaaz/kobeni-higashiyama-chainsawman/" alt="banner" width="100%" />
+![Alt Text](https://pin.it/12O4ctdha)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
